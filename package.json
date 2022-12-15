@@ -1,0 +1,17 @@
+{
+  "name": "responsive-mentor-webpage",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "a11y-slider": "^0.4.15"
+  }
+}
